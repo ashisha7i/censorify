@@ -1,9 +1,14 @@
 {
 	"author":"Ashish Agnihotri",
-	"name":"censorify",
+	"name":"censorifyaa",
 	"version":"0.0.1",
 	"description":"Censor words out of text",
 	"main":"censortext",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/ashisha7i/censorify"	
+	},
+	"keywords": [ "censor","words","text" ],
 	"dependencies":[],
 	"engines":{
 		"node":"*"
